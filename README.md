@@ -38,6 +38,19 @@ tools; making enterprise-level reliability accessible to everyone
 
 ---
 
+### 💼 AI Consulting & Services
+
+Need to bring "Fabric-level" automation to your internal teams?
+
+Through **[Sylvan.com](https://www.sylvan.com)**, I help companies architect
+secure, production-grade AI workflows. I leverage my background in
+**enterprise environments** to move organizations beyond "chatbots"
+and into reliable, automated infrastructure.
+
+[👉 Work with me at sylvan.com](https://www.sylvan.com)
+
+---
+
 ## ☕ Support My Work
 
 Open source is free, but my time is not.
