@@ -40,7 +40,7 @@ tools; making enterprise-level reliability accessible to everyone
 
 ### 💼 AI Consulting & Services
 
-Need to bring "Fabric-level" automation to your internal teams?
+Need to accelerate your internal teams with secure, production-grade AI workflows?
 
 Through **[Sylvan.com](https://www.sylvan.com)**, I help companies architect
 secure, production-grade AI workflows. I leverage my background in
