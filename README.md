@@ -55,7 +55,7 @@ and into reliable, automated infrastructure.
 
 Open source is free, but my time is not.
 
-I treat Fabric with the same seriousness
+I treat my open-source engineering work with the same seriousness
 as my corporate roles. Your support fuels late-night debugging, architectural
 rewrites, and new features.
 
