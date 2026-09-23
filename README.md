@@ -8,10 +8,10 @@ the boring stuff.
 
 ---
 
-## 🚀 The Main Mission: Fabric and Personal AI Infrastructure
+## 🚀 The Main Mission: Fabric and LifeOS
 
 I am currently the **Lead Developer and Maintainer** of [Daniel Miessler's Fabric](https://github.com/danielmiessler/Fabric),
-an open-source framework for augmenting humans using AI. I've also recently joined the [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) project.
+an open-source framework for augmenting humans using AI. I've also recently joined the [LifeOS](https://github.com/danielmiessler/LifeOS) project.
 
 - **Recent Work:** Architected the Go-project refactor,
 implemented Image Creation
